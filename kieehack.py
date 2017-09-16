@@ -1,5 +1,7 @@
 from random import randint
+import sys
 import subprocess
+import os
 
 def main(argv):
 	commit_num = int(argv[0])
