@@ -1,7 +1,3 @@
 # Kieehack
 
-Kieek Git Hack
-
-```
-python Kieehack.py <commit_num>
-```
+Kieek Git Hack `python kieehack.py <commit_num>`
